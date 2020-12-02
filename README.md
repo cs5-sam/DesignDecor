@@ -6,4 +6,4 @@ to the user and will also display the previous projects done by the
 company. It will also work as the online platform for displaying the
 products of the company.
 
-<a href="https://cs5-sam.github.io/Design-Decor-Main/" target="_blank"><strong>Check Here</strong></a>
+<a href="https://cs5-sam.github.io/DesignDecor/" target="_blank"><strong>Check Here</strong></a>
