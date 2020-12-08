@@ -74,7 +74,7 @@ h1{
 .slideshow:after { 
         position: absolute;
     width: 65%;
-    height: 50%;
+    height: 70%;
     top: 22%;
     left: 18%;
     z-index: 0; 
